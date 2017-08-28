@@ -1,0 +1,9 @@
+Building Mozocoin
+
+See doc/readme-qt.rst for instructions on building Mozocoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Mozocoin.
+
+See doc/build-*.txt for instructions on building Mozocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Mozocoin.

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=mozocoin
+Comment=mozocoin P2P Cryptocurrency
+Comment[fr]=mozocoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=mozocoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/mozocoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/mozocoin;
+Categories=Office;

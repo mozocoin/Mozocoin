@@ -1,0 +1,2 @@
+debian/bin/mozocoind usr/bin
+src/mozocoind usr/lib/mozocoin

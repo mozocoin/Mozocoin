@@ -1,0 +1,11 @@
+[Protocol]
+exec=mozocoin-qt '%u'
+protocol=mozocoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
